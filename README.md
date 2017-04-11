@@ -1,0 +1,1 @@
+Hive exercises and projects
